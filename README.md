@@ -1,18 +1,11 @@
-# excel-challenge
-Challenge Module 1
-MODULE 1 CHALLENGE
-Background
+# advanced-excel-project
+
+## Background
 Crowdfunding platforms like Kickstarter and Indiegogo have been growing in success and popularity since the late 2000s. From independent content creators to famous celebrities, more and more people are using crowdfunding to launch new products and generate buzz, but not every project has found success.
 To receive funding, the project must meet or exceed an initial goal, so many organizations dedicate considerable resources looking through old projects in an attempt to discover “the trick” to finding success. For this week's Challenge, you will organize and analyze a database of 1,000 sample projects to uncover any hidden trends.
-Before You Begin
-1.	Create a new space for this project called excel-challenge in either Dropbox or Google Drive. Do not add this Challenge to an existing repository.
-2.	Store your Excel workbooks here in this new space, and create a sharable link for submission.
-Files
-Download the following files to help you get started:
-Module 1 Challenge files
-Instructions
- 
-Using the Excel workbook in your .zip file, modify and analyze the sample-project data and try to uncover market trends.
+
+## Project Steps: 
+Using the Excel workbook, modify and analyze the project data to uncover market trends.
 •	This dataset was created by Trilogy Education Services, a 2U, Inc. brand.
 •	Use conditional formatting to fill each cell in the outcome column with a different color, depending on whether the associated campaign was successful, failed, canceled, or is currently live.
 o	Create a new column called Percent Funded that uses a formula to find how much money a campaign made relative to its initial funding goal.
