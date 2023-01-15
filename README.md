@@ -28,16 +28,16 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 
 ## Analysis
 - Given the provided data, some conclusions that can be drawn about these crowdfunding campaigns:
-   o	More crowdfunding campaigns are successful, than not successful.
-   o	Crowdfunding for theater projects, specifically plays, is the most popular and had the most amount of successful campaigns; however, if you do the ratio of total campaigns and how many failed, it also has the highest percentage of failures.
-   o	About 43% failed to meet their goal amount for crowdfunding, and about 57% met or exceeded their goal of crowdfunding.
-   o	Those who had a goal of raising $50,000 or more had the lowest percent of being successful.
+   - More crowdfunding campaigns are successful, than not successful.
+   - Crowdfunding for theater projects, specifically plays, is the most popular and had the most amount of successful campaigns; however, if you do the ratio of total campaigns and how many failed, it also has the highest percentage of failures.
+   - About 43% failed to meet their goal amount for crowdfunding, and about 57% met or exceeded their goal of crowdfunding.
+   - Those who had a goal of raising $50,000 or more had the lowest percent of being successful.
 
 - Some limitations on this data include the reason why some crowdfunding campaigns cancelled or failed.	There also could be more specific categories than the sub-categories listed. For instance, food trucks is a sub-category. But what types of food trucks were successful vs. failed? Does this play into the failure to raise money?
 
 - What are some other possible tables and/or graphs that I could create, and what additional value would they provide?
-   o	Create a pivot table to reflect by category, and did the time they launched to the deadline, play a factor in if crowdfunding was more successful or not? Did projects with a short deadline fail more? 
-   o	What was the average time from launch to deadline by category? This could be useful for people looking to crowdfund to help manage expectations.
-   o	What was the average financial goal, per category and sub-category, to give perspective to those thinking about starting a crowdfunding campaign?
+   - Create a pivot table to reflect by category, and did the time they launched to the deadline, play a factor in if crowdfunding was more successful or not? Did projects with a short deadline fail more? 
+   - What was the average time from launch to deadline by category? This could be useful for people looking to crowdfund to help manage expectations.
+   - What was the average financial goal, per category and sub-category, to give perspective to those thinking about starting a crowdfunding campaign?
 
  
